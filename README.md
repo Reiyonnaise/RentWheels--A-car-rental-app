@@ -476,9 +476,6 @@ Contributions make the open-source community an incredible place to learn, inspi
 
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for complete details.
 
-### Author
-- **Shidharth Laishram** — Lead Developer & Architect
-  - GitHub: [@Reiyonnaise](https://github.com/Reiyonnaise)
 
 ---
 
